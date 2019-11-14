@@ -7,7 +7,7 @@ Recommended to create a swap partition that is as large as my RAM. It is also re
 # Install Conda
 In the long term it is difficult to keep my python environments consistent. Install conda to manage my environments.
 
-Miniconda is nice on Ubuntu to keep the library a little more light-weight. Though I then need to install numpy, scipy, pandas, and imageio.
+Miniconda is nice on Ubuntu to keep the library a little more light-weight. Though I then need to install numpy, scipy, pandas, numba, and imageio.
 
 # Install Dropbox
 This is a useful way to share my files between computers.
