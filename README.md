@@ -14,3 +14,6 @@ This is a useful way to share my files between computers.
 
 # Install Z-Shell
 I like having z-shell.
+
+# Install Neovim
+Honestly, the main thing I like is the improved OS integration (especially for clipboard interaction).
